@@ -7,7 +7,7 @@
 
 This example builds a layout with items arranged vertically and horizontally.
 
-To arrange DockLayoutManger items horizontally or vertically, use [Layout Group](https://documentation.devexpress.com/#WPF/CustomDocument6824) objects. A LayoutGroup is a container that may contain different items:  
+To arrange DockLayoutManger items horizontally or vertically, use [Layout Group](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutGroup) objects. A LayoutGroup is a container that may contain different items:  
 
 - Other [Layout Groups](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutGroup)
 - [Layout Panels](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel)
